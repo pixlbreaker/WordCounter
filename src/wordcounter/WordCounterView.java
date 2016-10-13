@@ -10,7 +10,7 @@ import javax.swing.JTextArea;
 public class WordCounterView extends JFrame{
     
     public WordCounterView(){
-        this.setSize(600, 250);
+        this.setSize(500, 200);
         this.setTitle("Word Counting");
         makePanel();
         this.setVisible(true);
